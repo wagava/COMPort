@@ -1,8 +1,10 @@
 # COMPort
-Projects data exchanging using COMPort
+### Projects data exchanging using COMPort. 
 
-   - ***Radio wave level meter BARS***
+|*Only Example, do not use in production*|
+|-|
+   - ***Radio wave level meter BARS.*** [Web site](https://bars.nt-rt.ru/)
  
      - [x] InProgress ``` test ability waiting ```
-     - [ ] Выполнено
+     - [ ] Done
 ---
