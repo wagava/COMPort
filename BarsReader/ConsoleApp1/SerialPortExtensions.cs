@@ -14,7 +14,7 @@ using Microsoft.Win32.SafeHandles;
 
 namespace ConsoleApp1
 {
-    
+
     internal static class SerialPortExtensions
     {
         /// <summary>

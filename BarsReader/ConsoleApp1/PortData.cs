@@ -11,11 +11,11 @@ namespace ConsoleApp1
         /// <summary>
         /// Class <c>PortData</c> contains port work states.
         /// </summary>
+
         public enum ConnectionStatus
-        { 
+        {
             Connected,
             Disconnected
-        
         }
         public enum ExchangeState
         {
@@ -23,7 +23,8 @@ namespace ConsoleApp1
             Sending,
             Idle,
             Receiving,
-            Timeout
+            Timeout,
+            Error
         }
     }
 }
